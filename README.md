@@ -23,7 +23,6 @@
 - [Лабораторная работа №2](https://github.com/41ISR/webdev-2)
 
 ### 2. Работа с Vite+React
-⬇ Мы здесь
 - [Лекция](https://ktkv-presentations.github.io/webdev-3/)
 - [Лабораторная работа №2](https://github.com/41ISR/webdev-3)
 
