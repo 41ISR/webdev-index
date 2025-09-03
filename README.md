@@ -22,6 +22,11 @@
 - [Лекция](https://ktkv-presentations.github.io/webdev-2/)
 - [Лабораторная работа №2](https://github.com/41ISR/webdev-2)
 
+### 2. Работа с Vite+React
+⬇ Мы здесь
+- [Лекция](https://ktkv-presentations.github.io/webdev-3/)
+- [Лабораторная работа №2](https://github.com/41ISR/webdev-3)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
