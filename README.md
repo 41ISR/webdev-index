@@ -26,24 +26,17 @@
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
 
-> [!warning]
-> Перед началом работы с git не забудьте заменить ключ `~/.ssh/id_ed25519` на ваш ключ
-
 ### Как начать выполнять
 
-1. Создайте fork репозитория в организации [31ISR](https://github.com/31ISR) под названием `up09-lab{N}-{last_name}`
+1. Создайте fork репозитория в организации [41ISR](https://github.com/41ISR) под названием `webdev-{N}-{last_name}`
     - `N` - номер лабораторной работы
     - `last_name` - ваша фамилия
-2. Склонируйте себе этот форк по протоколу SSH
-    - `git clone {SSH_ПУТЬ_ДО_ВАШЕЙ_РЕПЫ}`
-3. Переключитель на ветку `dev`
+2. Переключитель на ветку `dev`
     - `git branch dev` - создать ветку (не надо писать, если ветка уже существует)
     - `git checkout dev` - переключиться на ветку `dev`
-4. Выполняйте задания в ветке `dev`
+3. Выполняйте задания в ветке `dev`
 
 ### Как работать
-
-_если на вашей машине нет вашей работы, то незабудьте склонировать репозиторий_
 
 1. Если были изменения в репозитории, то нужно стянуть последние изменения `git pull`
 2. Выполняйте задания в ветке `dev`
@@ -88,23 +81,11 @@ _Обратите внимание, что это делается в **ваше
 
 ## Установка ПО
 
-### Через WinGet
-
-`winget install python.python.3.12 git.git`
-
-### Через бинарные файлы
-
-- [Git](https://git-scm.com/downloads)
-- [Python](https://www.python.org/downloads/)
-
 ## Документация
 
-- [Документация Django](https://www.djangoproject.com/) [en]
-- [Документация Django Rest Framework](https://www.django-rest-framework.org/) [en]
-- [Документация Python](https://docs.python.org/) [en]
-- [Документация Python](http://pydocs.ru/) [ru]
+- [Документация NPM](https://docs.npmjs.com/) [en]
+- [Документация React](https://ru.legacy.reactjs.org/) [en]
 
 ## Полезное
 
 - [Git шпаргалка](https://github.com/cyberspacedk/Git-commands)
-- [Как использовать SSH ключ на GitHub](https://docs.github.com/ru/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
