@@ -14,13 +14,13 @@
 
 ### 0. Vanilla JS интерактивность
 
-[Лекция](https://ktkv-presentations.github.io/uidev-12/)
-[Лабораторная работа №1](https://github.com/41ISR/webdev-1)
+- [Лекция](https://ktkv-presentations.github.io/uidev-12/)
+- [Лабораторная работа №1](https://github.com/41ISR/webdev-1)
 
 ### 1. Работа с NPM пакетами
 ⬇ Мы здесь
-[Лекция](https://ktkv-presentations.github.io/webdev-2/)
-[Лабораторная работа №2](https://github.com/41ISR/webdev-2)
+- [Лекция](https://ktkv-presentations.github.io/webdev-2/)
+- [Лабораторная работа №2](https://github.com/41ISR/webdev-2)
 
 ## Как выполнять задания
 
