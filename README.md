@@ -87,6 +87,7 @@ _Обратите внимание, что это делается в **ваше
 
 ## Документация
 
+- [Документация MDN](https://developer.mozilla.org/en-US/docs/Web) [en]
 - [Документация NPM](https://docs.npmjs.com/) [en]
 - [Документация React](https://ru.legacy.reactjs.org/) [en]
 
