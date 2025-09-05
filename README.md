@@ -83,13 +83,51 @@ _Обратите внимание, что это делается в **ваше
 
 В случае успешной сдачи работы вы увидите мои комментарии по поводу работы, оценку и что реквест был слит с веткой main
 
+### Как хостить работу
+
+_Обратите внимание, что это делается в **вашем** репозитории, где вы работали_
+
+1. Откройте настройки проекта и вкладку `Pages`
+
+<p align="center">
+    <img src="./.repo/images/host-1.png" width="80%" />
+</p>
+
+<p align="center">
+    <img src="./.repo/images/host-2.png" width="80%" />
+</p>
+
+2. Укажите ветку в которой вы выполняли работу и нажмите сохранить
+
+_чаще всего это либо `dev`, либо `wip`_
+
+<p align="center">
+    <img src="./.repo/images/host-3.png" width="80%" />
+</p>
+
+3. Удостоверьтесь, что работа была захосчена успешно
+
+_об этом будет сигнализировать галочки у последнего коммита и в категории `Deployments`, также удостоверьтесь, что работа доступна по ссылке внутри деплоя `github-pages`_
+
+<p align="center">
+    <img src="./.repo/images/host-4.png" width="80%" />
+</p>
+
+<p align="center">
+    <img src="./.repo/images/host-5.png" width="80%" />
+</p>
+
 ## Установка ПО
+
+### `npm create vite@latest`
+- React
+- JavaScript
 
 ## Документация
 
-- [Документация MDN](https://developer.mozilla.org/en-US/docs/Web) [en]
-- [Документация NPM](https://docs.npmjs.com/) [en]
-- [Документация React](https://ru.legacy.reactjs.org/) [en]
+- [Документация MDN](https://developer.mozilla.org/en-US/docs/Web) \[en\]
+- [Документация NPM](https://docs.npmjs.com/) \[en\]
+- [Документация React](https://ru.legacy.reactjs.org/) \[en\]
 
 ## Полезное
 
